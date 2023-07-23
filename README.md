@@ -1,6 +1,6 @@
 ## Deployed using Streamlit cloud
 # Try it out
-  [HackBreak-Station]([https://duckduckgo.com](https://hackbreak-station.streamlit.app/))
+  [HackBreak-Station](https://hackbreak-station.streamlit.app/)
 
 # Created for
 
