@@ -16,26 +16,16 @@ Welcome to HackBreak Station! This is a repository for a virtual station designe
 
 ## Features
 
-1. **Coding Challenges:** Sharpen your coding skills with a set of programming challenges that range from beginner to advanced levels. Solve algorithmic puzzles and improve your problem-solving abilities.
+**One stop break station for Hackers
 
-2. **Meditation Zone:** Take a moment to relax and unwind with guided meditation sessions. Improve focus, reduce stress, and recharge your energy for the next coding session.
-
-3. **Tech Talks:** Watch interesting tech talks and presentations from industry experts. Stay updated on the latest trends, innovations, and best practices in the tech world.
-
-4. **Joke Generator:** Laughter is the best medicine! Get your daily dose of humor with the joke generator that provides a fresh tech-related joke every time you click the "Laugh" button.
-
-5. **Resource Library:** Access a curated list of useful resources, including programming tutorials, articles, and links to helpful tools.
-
-6. **Random Quotes:** Get inspired by a collection of motivational and thought-provoking quotes displayed randomly at each page load.
-
-7. **Contribution Zone:** Contribute to the HackBreak Station community by adding new coding challenges, tech talks, jokes, or any other features to make this virtual station even better.
+HackBreak-Station is a platform for hackers to take a break and relax their minds before they can continue with their projects. It offers a variety of engaging things like games, chatbot and pomodoro timer to let the hackers take a break in a controlled and hackathon themed environment. Breaks during the hackathons are equally important because we sometimes overwork ourselves. This project is made to remind people that breaks are also important to prevent fatigue and to increase productivity.
 
 ## How to Use
 
 1. **Clone the Repository:**
 
 2. **Open the Project:**
-Once you've cloned the repository, open the `index.html` file in your web browser to access HackBreak Station.
+Once you've cloned the repository, run `app.py` file in your terminal to access HackBreak Station on web browser.
 
 3. **Explore the Features:**
 - Navigate through the different sections and enjoy the variety of activities offered.
