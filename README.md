@@ -16,7 +16,7 @@ Welcome to HackBreak Station! This is a repository for a virtual station designe
 
 ## Features
 
-**One stop break station for Hackers
+** One stop break station for Hackers
 
 HackBreak-Station is a platform for hackers to take a break and relax their minds before they can continue with their projects. It offers a variety of engaging things like games, chatbot and pomodoro timer to let the hackers take a break in a controlled and hackathon themed environment. Breaks during the hackathons are equally important because we sometimes overwork ourselves. This project is made to remind people that breaks are also important to prevent fatigue and to increase productivity.
 
